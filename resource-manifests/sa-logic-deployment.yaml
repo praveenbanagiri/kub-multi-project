@@ -21,7 +21,7 @@ spec:
         app: sa-logic
     spec:
       containers:
-        - image: basilvarghese/sa-logic:2.0.0
+        - image: banagiripr/sa-logic:1.0.2
           imagePullPolicy: Always
           name: sa-logic
           ports:
